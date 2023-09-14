@@ -6,4 +6,4 @@ git branch -M main
 git remote add origin https://github.com/farbod3f/kowladge.git
 git push -u origin main
 git test 12 is going on the weekend
-git we can do it for sure
+git we can do it for sure good
